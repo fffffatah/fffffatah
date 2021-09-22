@@ -4,7 +4,7 @@ I'm currently studying Computer Information System at American International Uni
 
 • 👨 He/Him.</br>
 • 📚 I'm learning Full Stack Web Development | Embedded System Software Development | DevOps.</br>
-• 🤩 I'm interested in Machine Learning.</br>
+• 🤩 I'm interested in AI & Machine Learning.</br>
 • 💻 Technologies I'm familiar with: .NET | Laravel | NodeJS | ReactJS | MongoDB | MySQL | PostgreSQL.</br>
-• ☁️ I also know a little bit about Azure and AWS.</br>
+• ☁️ I also know a bit about Azure and AWS.</br>
 • 📫 ab.fatahmn@hotmail.com
