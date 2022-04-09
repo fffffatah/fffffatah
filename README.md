@@ -1,6 +1,6 @@
 ### 👋 Hello There !
   
-I'm currently studying Computer Information System at American International University-Bangladesh and working as Software Engineer Intern at Brain Station 23 Ltd.
+I'm currently studying Computer Information System at American International University-Bangladesh and working as a Software Engineer Intern at Brain Station 23 Ltd.
 
 • 👨 He/Him.</br>
 • 📚 I'm learning Full Stack Web Development | Embedded Systems | DevOps.</br>
