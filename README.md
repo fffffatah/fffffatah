@@ -1,5 +1,4 @@
-• 👨 He/Him.</br>
-• 📚 Full Stack Development | Embedded Systems | DevOps</br>
-• 💻 Technologies: .NET | Laravel | NodeJS | ReactJS | Azure Cosmos DB | MongoDB | MySQL | PostgreSQL</br>
+• 📚 Full Stack Software Development | System Design | DevOps</br>
+• 💻 Technologies: .NET | NodeJS | React | Azure Cosmos DB | MongoDB | PostgreSQL</br>
 • ☁️ Cloud: Microsoft Azure</br>
 • 📫 ab.fatahmn@hotmail.com
