@@ -2,3 +2,4 @@
 • 💻 Technologies: .NET | NodeJS | React | Azure Cosmos DB | MongoDB | PostgreSQL</br>
 • ☁️ Cloud: Microsoft Azure</br>
 • 📫 ab.fatahmn@hotmail.com
+• 📫 fatah@mail.fffffatah.tech
